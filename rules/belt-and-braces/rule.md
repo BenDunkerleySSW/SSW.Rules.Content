@@ -20,19 +20,16 @@ For example, having both encryption and  two-factor authentication for sensitive
 
 ![Figure: Having backups for your backups is good security.](screenshot-2023-12-13-at-3.50.05-pm.png)
 
-### When it can be harmful
+### When it can be harmful and how to avoid it
 
-In most cases however, belt and braces results in redundant or illogical measures being put in place. This means  unnecessary work and maintenance, and a false sense of security resulting in less diligence. Belt and braces also slows down decision making, even for simple tasks. 
+In most cases, belt and braces results in redundant or illogical measures being put in place. This means  unnecessary work and maintenance, and a false sense of security resulting in less diligence. Belt and braces also slows down decision making, even for simple tasks. 
 
-For example, it would be redundant to have both ChatGPT and a coworker read an unimportant email, or to have many different people check a minor spelling mistake.  
+For example, it would be redundant to have both ChatGPT and a coworker read an unimportant email, or to have many different people check a minor spelling mistake. Similarly, multiple levels of code review for even the smallest changes in software is both frustrating and ineffective.
 
-Many people make a belt and braces mistake when storing their passwords 
+Reserving double-checks and reviews by your coworkers for tasks that are complicated, important, or when you're just unsure, reduces the resource waste that belt and braces creates and ensures tasks aren't needlessly blocked. 
 
-the mistake of storing their passwords in many locations, like locally on their device or on a piece of paper. In these cases, a single password manager is a superior option to avoid security risks 
+Many people make a belt and braces mistake when storing their passwords, by writing them on a piece of paper and locally on their device. Not only is this an easy way to lose track of them, it is also a big security risk. The solution to this is a password manager, which keeps all your sensitive information in one, secure location, removing the need for multiple recordings!
 
 
-A password manager helps you avoid a ‘belt and braces’ mistake by storing your passwords in one secure location, not multiple places, like locally on your device and on a piece of paper. 
-Not only is this an easy way to lose track of your passwords, it is also a big security risk. 
- 
-
-### How to avoid it
+Bad Example: Arbitrarily recording your passwords in different locations is a bad idea. 
+Good Example: Password managers are secure and central
